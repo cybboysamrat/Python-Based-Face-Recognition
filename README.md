@@ -17,4 +17,3 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-https://cybboysamrat.github.io/Python-Based-Face-Recognition/
